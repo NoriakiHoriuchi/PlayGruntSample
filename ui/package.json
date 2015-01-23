@@ -1,0 +1,23 @@
+{
+  "name": "play-grunt-sample",
+  "version": "0.0.0",
+  "description": "playframework sample with grunt",
+  "repository": "https://github.com/NoriakiHoriuchi/PlayGruntSample",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-exec": "^0.4.5",
+    "grunt-sass": "^0.17.0",
+    "grunt-sync": "^0.2.0"
+  }
+}
